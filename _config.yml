@@ -1,6 +1,6 @@
-title: Gaze Estimation and Prediction in the Wild
-email: n.horanyi@pgr.bham.ac.uk
-description: Gaze Estimation and Prediction in the Wild Workshop Series
+title: Human-Robot Contact and Manipulation
+email: hrcm-organizers@googlegroups.com
+description: Workshop Series on Human-Robot Contact and Manipulation
   ---
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -9,5 +9,5 @@ markdown: kramdown
 include: ['_pages']
 
 # Google Analytics
-google_analytics: UA-99765598-4
+google_analytics: G-XT7QDYQEKC
 
