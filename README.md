@@ -1,4 +1,4 @@
-# HRCM Workshop Webpages (hrcm-hri.github.io)
+# HRCM Workshop Webpages (hrcm-workshop.github.io)
 
 ## Previewing your changes
 
